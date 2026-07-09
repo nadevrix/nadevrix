@@ -10,7 +10,7 @@
 ```
 
 ### Full Stack & Blockchain Developer
-#### Founder of Orchaix · AI Agents · Smart Contracts · Self-Hosted Infrastructure
+#### Co-Founder of Orchaix · Pollar · Hivework — AI Agents · Smart Contracts · Self-Hosted Infra
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nadevrix.dpdns.org-EF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://nadevrix.dpdns.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Ricaldez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadevrix/)
@@ -28,7 +28,9 @@ Full Stack Developer building at the intersection of **AI agents, blockchain inf
 
 I work across the entire stack — from smart contracts to backend systems to the Linux server they run on. I ship products, not just code.
 
-- **Founder:** [Orchaix](https://orchaix.nadevrix.dpdns.org) — AI agents platform for SMBs (live in production 🟢)
+- **Co-Founder:** [Orchaix](https://orchaix.nadevrix.dpdns.org) — AI agents platform for SMBs (live 🟢)
+- **Co-Founder:** [Pollar](https://www.pollar.xyz) — embedded wallet SDK for Stellar payments, web3 with web2 UX (live 🟢)
+- **Co-Founder:** [Hivework](https://hivework-two.vercel.app) — collaborative marketing protocol with on-chain USDC payouts on Solana (live 🟢)
 - **Smart Contracts:** Solidity · Clarity · Rust (Soroban)
 - **Blockchains:** Ethereum/EVM · Avalanche · Stacks (Bitcoin L2) · Stellar
 - **Backend:** Go · C# / .NET · PostgreSQL · REST APIs
@@ -56,7 +58,8 @@ I work across the entire stack — from smart contracts to backend systems to th
 | Ethereum / EVM | Solidity | Active |
 | Avalanche | Solidity + Avalanche SDK | Certified |
 | Stacks (Bitcoin L2) | Clarity | Active |
-| Stellar | Rust via Soroban | Active |
+| Stellar | Rust via Soroban | Active — Pollar |
+| Solana | USDC smart contracts | Active — Hivework |
 
 </div>
 
