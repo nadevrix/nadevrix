@@ -124,6 +124,7 @@ I work across the entire stack — from smart contracts to backend systems to th
 
 | Award | Organization | Year |
 |-------|-------------|------|
+| Winner | Pulso Hackathon | 2026 |
 | Winner — Business Challenge | InnovaHack Santa Cruz | 2025 |
 | Galactic Problem Solver | NASA Space Apps Challenge | 2025 |
 | Web3 & Smart Contracts on Avalanche | UAGRM | 2025 |
