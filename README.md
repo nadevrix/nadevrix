@@ -124,9 +124,11 @@ I work across the entire stack — from smart contracts to backend systems to th
 
 | Award | Organization | Year |
 |-------|-------------|------|
-| Winner | Pulso Hackathon | 2026 |
-| Winner — Business Challenge | InnovaHack Santa Cruz | 2025 |
-| Galactic Problem Solver | NASA Space Apps Challenge | 2025 |
+| Winner — scholarship in Brazil 🇧🇷 | Pulso Hackathon | 2026 |
+| Scholarship | Código Alebrije | 2026 |
+| Video Pitch Award ([Pollar](https://www.pollar.xyz)) | Build on Stellar Chile Ideatón — DoraHacks | 2026 |
+| Winner — Business Challenge (Mobicorp) | InnovaHack, Santa Cruz | 2025 |
+| Honorable Mention | NASA Space Apps Challenge, Santa Cruz | 2025 |
 | Web3 & Smart Contracts on Avalanche | UAGRM | 2025 |
 | Robotics II | Escuela Militar de Ingeniería | 2024 |
 
