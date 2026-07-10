@@ -124,8 +124,10 @@ I work across the entire stack — from smart contracts to backend systems to th
 
 | Award | Organization | Year |
 |-------|-------------|------|
-| Winner — scholarship in Brazil 🇧🇷 | Pulso Hackathon | 2026 |
-| Scholarship | Código Alebrije | 2026 |
+| Winner — scholarship in Brazil 🇧🇷 ([Pollar](https://www.pollar.xyz)) | Pulso Hackathon | 2026 |
+| Top 2 Bolivia · Top 38 worldwide ([Hivework](https://hivework-two.vercel.app)) | Dev3pack | 2026 |
+| Accelerator — current ([Hivework](https://hivework-two.vercel.app)) | The Bridge (Solana) | 2026 |
+| Scholarship ([Pollar](https://www.pollar.xyz)) | Código Alebrije | 2026 |
 | Video Pitch Award ([Pollar](https://www.pollar.xyz)) | Build on Stellar Chile Ideatón — DoraHacks | 2026 |
 | Winner — Business Challenge (Mobicorp) | InnovaHack, Santa Cruz | 2025 |
 | Honorable Mention | NASA Space Apps Challenge, Santa Cruz | 2025 |
