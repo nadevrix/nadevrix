@@ -1,160 +1,64 @@
-<div align="center">
+# Rodrigo Ricaldez Martínez
 
-```
-██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗
-██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗
-██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║
-██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║
-██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝
-```
+Full-stack Web3 developer based in Santa Cruz de la Sierra, Bolivia.
 
-### Full Stack & Blockchain Developer
-#### Co-Founder of Orchaix · Pollar · Hivework — AI Agents · Smart Contracts · Self-Hosted Infra
+I build end-to-end products across smart contracts, backend systems, databases,
+web interfaces, and deployment infrastructure. My current focus is verifiable AI
+infrastructure and applications built on Stellar/Soroban.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nadevrix.dpdns.org-EF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://nadevrix.dpdns.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Ricaldez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadevrix/)
-[![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Galactic_Problem_Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org)
-[![InnovaHack](https://img.shields.io/badge/InnovaHack_2025-Winner_Business_Challenge-7B2D8B?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nadevrix/)
-[![Avalanche](https://img.shields.io/badge/Avalanche-Certified-E84142?style=for-the-badge&logo=avalanche&logoColor=white)](https://www.avax.network)
+[Portfolio](https://nadevrix.dpdns.org) ·
+[LinkedIn](https://www.linkedin.com/in/nadevrix/) ·
+[X](https://x.com/nadevrix) ·
+[Telegram](https://t.me/nadevrix) ·
+[DoraHacks](https://dorahacks.io/hacker/nadevrix)
 
-</div>
+## Independent work
 
----
+### [Orquevrix](https://github.com/nadevrix/Orquevrix)
 
-## About Me
+A marketplace and visual orchestrator for verifiable AI work on Stellar. Its
+on-chain layer includes four Soroban contracts for licensing, workflows,
+metering, and settlement, backed by 95 contract tests.
 
-Full Stack Developer building at the intersection of **AI agents, blockchain infrastructure and real-world business impact**.
+`Rust` `Soroban` `Stellar` `TypeScript` `PostgreSQL`
 
-I work across the entire stack — from smart contracts to backend systems to the Linux server they run on. I ship products, not just code.
+### [VAIM-1](https://github.com/nadevrix/vaim-1)
 
-- **Co-Founder:** [Orchaix](https://orchaix.nadevrix.dpdns.org) — AI agents platform for SMBs (live 🟢)
-- **Co-Founder:** [Pollar](https://www.pollar.xyz) — embedded wallet SDK for Stellar payments, web3 with web2 UX (live 🟢)
-- **Co-Founder:** [Hivework](https://hivework-two.vercel.app) — collaborative marketing protocol with on-chain USDC payouts on Solana (live 🟢)
-- **Smart Contracts:** Solidity · Clarity · Rust (Soroban)
-- **Blockchains:** Ethereum/EVM · Avalanche · Stacks (Bitcoin L2) · Stellar
-- **Backend:** Go · C# / .NET · PostgreSQL · REST APIs
-- **Infra:** Self-hosted Linux servers · systemd · Cloudflare Tunnels · automated backups & monitoring
+An open specification for verifiable LLM inference metering, integer-only USDC
+charges, and signed usage receipts with an optional Stellar MPP settlement
+profile.
 
----
+`Open specification` `JSON Schema` `USDC` `Stellar MPP`
 
-## Featured Project — Orchaix
+## Selected team contributions
 
-> **Deploy your business AI agent in minutes, no code required.**
-> Describe your business in plain words → an AI orchestrator (A2A) builds a professional agent → connect it to Telegram, WhatsApp or any app via API.
+These projects were built with teams. The links below point directly to my
+public contribution history.
 
-`Go` `PostgreSQL` `Gemini` `Telegram Bot API` `self-hosted`
+| Project | My contribution | Evidence |
+| --- | --- | --- |
+| [MentorIA](https://github.com/nadevrix/MentorIA) | Agent architecture, PostgreSQL integration, deployment, product calculations, and integration of the team's branches | [Commits](https://github.com/nadevrix/MentorIA/commits?author=nadevrix) |
+| [Orchaix](https://github.com/nadevrix/orchaix) | A2A agent orchestration, RAG, interface work, API hardening, and deployment | [Commits](https://github.com/nadevrix/orchaix/commits?author=nadevrix) |
+| [Hivework](https://github.com/aleregex/hivework) | Solana program integration, oracle configuration, campaign lifecycle, stakes, and payout fixes | [Commits](https://github.com/aleregex/hivework/commits?author=nadevrix) |
+| [Prestache](https://github.com/Prestacho/Prestacho) | Next.js/Web3 MVP foundation and hackathon release | [Commits](https://github.com/Prestacho/Prestacho/commits?author=nadevrix) |
+| [Emikers — InnovaHack](https://github.com/nadevrix/Innovahack-movicorp-IA-Emikers) | Team prototype for the MobiCorp business challenge | [Commits](https://github.com/nadevrix/Innovahack-movicorp-IA-Emikers/commits?author=nadevrix) |
 
-🔗 **Live:** [orchaix.nadevrix.dpdns.org](https://orchaix.nadevrix.dpdns.org) — rewritten from Next.js to a single 19MB Go binary, running on my own server with automated backups, monitoring and zero cloud costs.
+## Verified recognition
 
----
+- **MobiCorp Business Challenge winner — InnovaHack Santa Cruz 2025.**
+  Emikers was selected by MobiCorp as the strongest solution to its challenge.
+  [Published result](https://boliviaemprende.com/eventos/innovahack-2025-reunio-a-cerca-de-200-jovenes-talentos-para-resolver-desafios-empresariales-y-sociales)
 
-## Blockchain Expertise
+## Working stack
 
-<div align="center">
+- **Smart contracts and Web3:** Rust, Soroban, Stellar, Solidity, Solana
+- **Applications:** TypeScript, Next.js, React, Go, Python
+- **Backend and data:** PostgreSQL, REST APIs, SSE, authentication, indexing
+- **Infrastructure:** Linux, Docker, Vercel, Render, Cloudflare Tunnels
 
-| Ecosystem | Language | Status |
-|-----------|----------|--------|
-| Ethereum / EVM | Solidity | Active |
-| Avalanche | Solidity + Avalanche SDK | Certified |
-| Stacks (Bitcoin L2) | Clarity | Active |
-| Stellar | Rust via Soroban | Active — Pollar |
-| Solana | USDC smart contracts | Active — Hivework |
+## Contact
 
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Smart Contracts**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Clarity](https://img.shields.io/badge/Clarity-5546FF?style=for-the-badge&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_(Soroban)-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**AI & Backend**
-
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/Rust_+_WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-
-**Infra & Self-Hosting**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-30469B?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Award | Organization | Year |
-|-------|-------------|------|
-| Winner — scholarship in Brazil 🇧🇷 ([Pollar](https://www.pollar.xyz)) | Pulso Hackathon | 2026 |
-| Top 2 Bolivia · Top 38 worldwide ([Hivework](https://hivework-two.vercel.app)) | Dev3pack | 2026 |
-| Accelerator — current ([Hivework](https://hivework-two.vercel.app)) | The Bridge (Solana) | 2026 |
-| Scholarship ([Pollar](https://www.pollar.xyz)) | Código Alebrije | 2026 |
-| Video Pitch Award ([Pollar](https://www.pollar.xyz)) | Build on Stellar Chile Ideatón — DoraHacks | 2026 |
-| Winner — Business Challenge (Mobicorp) | InnovaHack, Santa Cruz | 2025 |
-| Honorable Mention | NASA Space Apps Challenge, Santa Cruz | 2025 |
-| Web3 & Smart Contracts on Avalanche | UAGRM | 2025 |
-| Robotics II | Escuela Militar de Ingeniería | 2024 |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadevrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E84142&icon_color=E84142&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadevrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E84142&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nadevrix&theme=tokyonight&hide_border=true&background=0D1117&ring=E84142&fire=E84142&currStreakLabel=E84142)
-
-</div>
-
----
-
-## Connect
-
-Open to conversations with investors, founders, and builders.
-
-[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-EF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://nadevrix.dpdns.org)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadevrix/)
+Open to collaborating on Web3 infrastructure, AI systems, and full-stack
+products. The fastest ways to reach me are
+[LinkedIn](https://www.linkedin.com/in/nadevrix/) and
+[Telegram](https://t.me/nadevrix).
