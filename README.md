@@ -42,13 +42,6 @@ public contribution history.
 | [Pollar](https://github.com/pollar-xyz/pollar) | Security review of the client SDK packages, covering key handling, DPoP, session management, storage, and UI security | [Security review PR](https://github.com/pollar-xyz/pollar/pull/43) |
 | [Hivework](https://github.com/aleregex/hivework) | Solana program integration, oracle configuration, campaign lifecycle, stakes, and payout fixes | [Commits](https://github.com/aleregex/hivework/commits?author=nadevrix) |
 | [Prestache](https://github.com/Prestacho/Prestacho) | Next.js/Web3 MVP foundation and hackathon release | [Commits](https://github.com/Prestacho/Prestacho/commits?author=nadevrix) |
-| [Emikers — InnovaHack](https://github.com/nadevrix/Innovahack-movicorp-IA-Emikers) | Team prototype for the MobiCorp business challenge | [Commits](https://github.com/nadevrix/Innovahack-movicorp-IA-Emikers/commits?author=nadevrix) |
-
-## Verified recognition
-
-- **MobiCorp Business Challenge winner — InnovaHack Santa Cruz 2025.**
-  Emikers was selected by MobiCorp as the strongest solution to its challenge.
-  [Published result](https://boliviaemprende.com/eventos/innovahack-2025-reunio-a-cerca-de-200-jovenes-talentos-para-resolver-desafios-empresariales-y-sociales)
 
 ## Working stack
 
