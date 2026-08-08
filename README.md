@@ -39,8 +39,8 @@ public contribution history.
 | --- | --- | --- |
 | [MentorIA](https://github.com/nadevrix/MentorIA) | Agent architecture, PostgreSQL integration, deployment, product calculations, and integration of the team's branches | [Commits](https://github.com/nadevrix/MentorIA/commits?author=nadevrix) |
 | [Orchaix](https://github.com/nadevrix/orchaix) | A2A agent orchestration, RAG, interface work, API hardening, and deployment | [Commits](https://github.com/nadevrix/orchaix/commits?author=nadevrix) |
-| [Pollar](https://github.com/pollar-xyz/pollar) | Security review of the client SDK packages, covering key handling, DPoP, session management, storage, and UI security | [Security review PR](https://github.com/pollar-xyz/pollar/pull/43) |
-| [Hivework](https://github.com/aleregex/hivework) | Solana program integration, oracle configuration, campaign lifecycle, stakes, and payout fixes | [Commits](https://github.com/aleregex/hivework/commits?author=nadevrix) |
+| [Pollar](https://www.pollar.xyz/) | Core team member building payment and wallet orchestration infrastructure for LATAM apps on Stellar and Solana. Pollar advanced among 13 startups worldwide in The Bridge Accelerator | [Dev3pack selection](https://www.linkedin.com/company/dev3pack) |
+| [Hivework](https://github.com/aleregex/hivework) | Cofounder and full-stack engineer. Built a Solana protocol for conversion-based marketing attribution with human and AI contributors; placed second in Bolivia at the Dev3pack Global Hackathon | [Official leaderboard](https://hack.dev3pack.xyz/leaderboard) |
 | [Prestache](https://github.com/Prestacho/Prestacho) | Next.js/Web3 MVP foundation and hackathon release | [Commits](https://github.com/Prestacho/Prestacho/commits?author=nadevrix) |
 
 ## Working stack
